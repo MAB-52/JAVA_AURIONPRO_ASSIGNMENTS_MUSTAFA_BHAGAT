@@ -69,3 +69,15 @@ A console-based Java application for managing bank accounts with full CRUD opera
    git clone https://github.com/your-username/JDBC_BANKING_SYSTEM.git
    cd JDBC_BANKING_SYSTEM
 
+## SAMPLE OUTPUT MENU
+1. Open Account
+2. Check Balance
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Apply Loan
+7. View Transaction History
+8. Activate/Deactivate Account
+9. View All Accounts
+10. Exit
+
