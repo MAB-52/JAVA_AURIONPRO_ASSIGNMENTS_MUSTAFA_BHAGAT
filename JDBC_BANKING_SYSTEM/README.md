@@ -66,5 +66,6 @@ A console-based Java application for managing bank accounts with full CRUD opera
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/bank-management-system-java.git
-   cd bank-management-system-java
+   git clone https://github.com/your-username/JDBC_BANKING_SYSTEM.git
+   cd JDBC_BANKING_SYSTEM
+
