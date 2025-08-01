@@ -1,4 +1,4 @@
-# 🏦 Java Bank Management System
+# 🏦 Java Bank Management System using JDBC
 
 A console-based Java application for managing bank accounts with full CRUD operations, transaction history, and loan features, backed by a MySQL database.
 
@@ -75,9 +75,9 @@ A console-based Java application for managing bank accounts with full CRUD opera
 3. Deposit
 4. Withdraw
 5. Transfer
-6. Apply Loan
-7. View Transaction History
-8. Activate/Deactivate Account
-9. View All Accounts
-10. Exit
-
+6. Activate or Deactivate Account
+7. View All Accounts
+8. Apply for Loan
+9. View Transaction History
+10. Update Account Holder Name
+11. Exit
