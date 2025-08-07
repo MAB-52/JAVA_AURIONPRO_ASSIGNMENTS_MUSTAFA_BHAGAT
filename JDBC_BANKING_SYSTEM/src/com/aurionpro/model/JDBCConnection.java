@@ -8,8 +8,8 @@ public class JDBCConnection {
 
 	//Declare Url, Username, Password...
     private static final String URL = "jdbc:mysql://localhost:3306/bank";
-    private static final String USER = "root";
-    private static final String PASSWORD = "Mustafa52!";
+    private static final String USER = "your_username";
+    private static final String PASSWORD = "your_password";
     
     public static Connection getConnection() throws SQLException
     {
@@ -26,3 +26,4 @@ public class JDBCConnection {
     	return DriverManager.getConnection(URL, USER, PASSWORD);
     }
 }
+
