@@ -116,18 +116,7 @@ Order ID: 1 | Food ID: 1 | Qty: 2 | Total: ₹240.00 | Date: 2025-08-08 | Status
 
 ---
 
-## 📌 Setup
-1. Clone repository  
-   ```bash
-   git clone https://github.com/your-username/food-ordering-demo.git
-   ```
-2. Create MySQL database & tables (use provided `.sql` file)  
-3. Configure `DBUtil.java` with your MySQL credentials  
-4. Run project with Maven  
-   ```bash
-   mvn clean install
-   java -cp target/food-ordering-system-1.0.jar com.aurionpro.test.MainApp
-   ```
+
 
 ---
 
@@ -141,4 +130,4 @@ User Login → Username: john  | Password: pass123
 
 ## 👨‍💻 Author
 Made with ❤️ in Java  
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/MAB-52)
